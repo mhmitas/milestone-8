@@ -1,0 +1,78 @@
+[
+    {
+        "id": 1,
+        "name": "Basic Membership",
+        "price": 29.99,
+        "features": [
+            "Access to all cardio and weight training equipment",
+            "Locker room access",
+            "Free Wi-Fi",
+            "Basic group fitness classes (limited selection)",
+            "Bring-a-friend pass (once a month)"
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Standard Membership",
+        "price": 49.99,
+        "features": [
+            "All features of Basic Membership",
+            "Unlimited group fitness classes",
+            "One complimentary personal training session",
+            "Towel service (discounted rate for additional towels)",
+            "Nutritional guidance consultation",
+            "20% discount on fitness apparel"
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Premium Membership",
+        "price": 69.99,
+        "features": [
+            "All features of Standard Membership",
+            "Access to pool, hot tub, and sauna",
+            "Discounted personal training sessions",
+            "Free towel service",
+            "10% discount on gym merchandise",
+            "Priority booking for popular classes",
+            "Free access to virtual fitness classes",
+            "Monthly fitness challenges with prizes"
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Student Membership",
+        "price": 19.99,
+        "features": [
+            "Discounted price for students with valid ID",
+            "Access to all cardio and weight training equipment",
+            "Locker room access",
+            "Free Wi-Fi",
+            "Limited selection of group fitness classes",
+            "Study area with Wi-Fi access"
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Couples Membership",
+        "price": 59.99,
+        "features": [
+            "All features of Standard Membership (for each person)",
+            "Discounted joint rate",
+            "Account sharing privileges (workout tracking, scheduling)",
+            "One complimentary couples personal training session"
+        ]
+    },
+    {
+        "id": 6,
+        "name": "Corporate Wellness Membership",
+        "price": 65,
+        "features": [
+            "Customized group fitness classes for corporate groups",
+            "On-site wellness consultations and workshops",
+            "Discounted memberships for employees",
+            "Branded gym merchandise options",
+            "Priority booking for corporate events"
+        ]
+    }
+]
